@@ -16,6 +16,7 @@ num_copies = int(input("Enter Number Of Copies : " ))
 print(num_copies * my_str)
 
 '''
+output = 
 abcabc
 .py.py.py
 Enter Any Keyword : avi
